@@ -1,6 +1,10 @@
 
 ## C++ Project Template
 
+Just a C++ project template. 
+
+It uses [vcpkg](https://github.com/microsoft/vcpkg) for package management and [CMake](https://cmake.org/) as a build system.
+
 
 ## Building the project
 
@@ -22,3 +26,7 @@
 ## Choosing a license
 
 A license can be easily chosen in [here](https://choosealicense.com/).
+
+
+
+https://github.com/isocpp/CppCoreGuidelines
