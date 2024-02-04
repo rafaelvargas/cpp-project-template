@@ -3,7 +3,7 @@
 
 Just a C++ project template. 
 
-It uses [vcpkg](https://github.com/microsoft/vcpkg) for package management and [CMake](https://cmake.org/) as a build system.
+It uses [vcpkg](https://github.com/microsoft/vcpkg) for dependency management and [CMake](https://cmake.org/) as a build system.
 
 
 ## Building the project
@@ -26,7 +26,3 @@ It uses [vcpkg](https://github.com/microsoft/vcpkg) for package management and [
 ## Choosing a license
 
 A license can be easily chosen in [here](https://choosealicense.com/).
-
-
-
-https://github.com/isocpp/CppCoreGuidelines
